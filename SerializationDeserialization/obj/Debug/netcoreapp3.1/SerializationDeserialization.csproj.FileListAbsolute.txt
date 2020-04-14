@@ -1,0 +1,11 @@
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.exe
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.deps.json
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.runtimeconfig.json
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.runtimeconfig.dev.json
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.dll
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.pdb
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.csprojAssemblyReference.cache
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.AssemblyInfoInputs.cache
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.AssemblyInfo.cs
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.dll
+C:\Users\AldNS\source\repos\SerializationDeserialization\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.pdb
